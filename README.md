@@ -1,1 +1,1 @@
-# GAME-PLAYERS-REGISTRATION-IN-THE-DATABASE
+# C36-teacher-reference
